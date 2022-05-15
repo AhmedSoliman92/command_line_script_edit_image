@@ -1,4 +1,4 @@
-#Windows
+## Windows
 1-install virtualenv.
 2- activate the environment. (.\ENVVIRONMENT NAME\Scripts\activate)
 3- install dependencies:
@@ -8,7 +8,7 @@
     example:
     python image_filter input.jpg output.jpg python.png 50 overlay gray_scale 180 overlay
 
-#Linux
+## Linux
 to activate the environment:
 source env/bin/activate
 to do some filters:
